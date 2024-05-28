@@ -1,3 +1,6 @@
+
+nmap J }
+nmap K {
 vmap J }
 vmap K {
 imap jj <Esc>
